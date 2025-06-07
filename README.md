@@ -9,27 +9,61 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
 ## 🚀 Skills
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  &nbsp;
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
   
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  &nbsp;
   
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;
   
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  &nbsp;
+  <!-- Tableau -->
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  &nbsp;
   
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+ <!-- C Language -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Language" width="40" height="40"/>
+  &nbsp;
   
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  
+  <!-- Dashboard -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" alt="Dashboard" width="40" height="40"/>
+  
 </p>
 
 
 ## 🎓 Education
 
-**College:** MCKV Institute of Engineering
+**● College:** MCKV Institute of Engineering
 
-**Subject:** Bachelor of Vocational in Software Development (2024-Present)
+**● Subject:** Bachelor of Vocational in Software Development (2024-Present)
 
-**Current SGPA:** 9.85
+**● Current SGPA:** 9.85
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayantanidalui&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayantanidalui&theme=default" alt="GitHub Streak" />
+</p>
+
+## 🗂 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantanidalui&theme=github-light" alt="GitHub Contribution Graph"/>
+</p>
 
 ## 📬 Contact Me
 
