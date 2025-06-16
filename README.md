@@ -3,7 +3,8 @@
 Hi there! I'm **Sayantani**, a passionate student diving deep into the world of **Data Analysis**. I enjoy working with data to uncover insights, support decision-making, and solve real-world problems. I'm building a strong foundation in data analytics through continuous learning, hands-on-projects and continous exploration of tools and technologies in the data domain. 
 
 
-![IMG-20250607-WA0002](https://github.com/user-attachments/assets/77d675ae-65ad-4859-b455-b12303e71766)
+![WhatsApp Image 2025-06-16 at 09 56 34_b7be610d](https://github.com/user-attachments/assets/df8e20d6-de41-433e-a860-8b1d0ec1c29e)
+
 
 
 ## 🚀 Skills
