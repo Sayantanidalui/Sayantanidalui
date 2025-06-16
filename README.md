@@ -1,4 +1,4 @@
-# 👩‍💻 Data Enthusiast | Aspiring Data Analyst | Lifelong Learner
+# 👩‍💻 Data Enthusiast | Aspiring Data Analyst
 
 Hi there! I'm **Sayantani**, a passionate student diving deep into the world of **Data Analysis**. I enjoy working with data to uncover insights, support decision-making, and solve real-world problems. I'm building a strong foundation in data analytics through continuous learning, hands-on-projects and continous exploration of tools and technologies in the data domain. 
 
@@ -39,7 +39,8 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
   
   <!-- Dashboard -->
   <img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" alt="Dashboard" width="40" height="40"/>
-  
+<!--Html-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
 </p>
 
 
