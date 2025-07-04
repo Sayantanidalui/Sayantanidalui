@@ -59,8 +59,7 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayantanidalui&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayantanidalui&theme=dark" alt="GitHub Streak" />
+
 </p>
 
 ## 🗂 GitHub Contribution Graph
