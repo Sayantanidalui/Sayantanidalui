@@ -2,11 +2,11 @@
 
 Hi there! I'm **Sayantani**, a passionate student diving deep into the world of **Data Analysis**. I enjoy working with data to uncover insights, support decision-making, and solve real-world problems. I'm building a strong foundation in data analytics through continuous learning, hands-on-projects and continous exploration of tools and technologies in the data domain. 
 
-
+---
 ![WhatsApp Image 2025-06-16 at 09 56 34_b7be610d](https://github.com/user-attachments/assets/df8e20d6-de41-433e-a860-8b1d0ec1c29e)
 
 
-
+---
 ## 🚀 Skills
 
 <p align="left">
@@ -45,7 +45,7 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
 </p>
 
-
+---
 ## 🎓 Education
 
 **● College:** MCKV Institute of Engineering
@@ -54,7 +54,7 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
 
 **● Current SGPA:** 9.85
 
-
+---
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -62,15 +62,17 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
 
 </p>
 
+---
 ## 🗂 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantanidalui&theme=github-dark" alt="GitHub Contribution Graph"/>
 </p>
 
+---
 ## 📬 Contact Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:sayantanidalui97@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
