@@ -52,7 +52,7 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
 
 **● Subject:** Bachelor of Vocational in Software Development (2024-Present)
 
-**● Current SGPA:** 9.85
+**● Current YGPA:** 9.93
 
 ---
 ## 📈 GitHub Stats
