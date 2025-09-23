@@ -80,5 +80,8 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
   <a href="https://www.linkedin.com/in/sayantani-sayu-dalui-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+    <a href="https://sayantani-personal-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
