@@ -63,13 +63,6 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
 </p>
 
 ---
-## 🗂 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantanidalui&theme=github-dark" alt="GitHub Contribution Graph"/>
-</p>
-
----
 ## 📬 Contact Me
 
 <p align="center">
