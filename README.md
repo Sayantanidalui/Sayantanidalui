@@ -25,17 +25,9 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   &nbsp;
   
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  &nbsp;
   <!-- Tableau -->
   <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  &nbsp;
-  
- <!-- C Language -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Language" width="40" height="40"/>
-  &nbsp;
-  
+  &nbsp;  
   
   <!-- Dashboard -->
   <img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" alt="Dashboard" width="40" height="40"/>
