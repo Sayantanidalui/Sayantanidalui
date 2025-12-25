@@ -24,18 +24,17 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   &nbsp;
-  
-  <!-- Tableau -->
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  &nbsp;  
+
+<!-- pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+
+  <!-- matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
+     
+
   
   <!-- Dashboard -->
   <img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" alt="Dashboard" width="40" height="40"/>
-
-  
-<!--Html-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-</p>
 
 ---
 ## 🎓 Education
