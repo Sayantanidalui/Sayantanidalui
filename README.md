@@ -45,13 +45,7 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
 
 **● Current YGPA:** 9.93
 
----
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayantanidalui&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-</p>
 
 ---
 ## 📬 Contact Me
