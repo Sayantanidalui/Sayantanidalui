@@ -3,40 +3,31 @@
 Hi there! I'm **Sayantani**, a passionate student diving deep into the world of **Data Analysis**. I enjoy working with data to uncover insights, support decision-making, and solve real-world problems. I'm building a strong foundation in data analytics through continuous learning, hands-on-projects and continous exploration of tools and technologies in the data domain. 
 
 ---
-![WhatsApp Image 2025-06-16 at 09 56 34_b7be610d](https://github.com/user-attachments/assets/df8e20d6-de41-433e-a860-8b1d0ec1c29e)
+<img width="1983" height="793" alt="file_00000000acf871fb85c3f749e5b89e96" src="https://github.com/user-attachments/assets/4469f49c-9a85-4147-91f2-5cef0af9819f" />
 
 
 ---
 ## 🚀 Skills
 
 <p align="left">
-  <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-  &nbsp;
-
-  <!-- Power BI -->
+  &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
-  
-  <!-- MySQL -->
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  &nbsp;
-  
-  <!-- Python -->
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  &nbsp;
-
-<!-- pandas -->
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/combo-chart.png" alt="Dashboard" width="40" height="40"/>
+</p>
 
-  <!-- matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
-     
-
-  
-  <!-- Dashboard -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" alt="Dashboard" width="40" height="40"/>
 
 ---
+
 ## 🎓 Education
 
 **● College:** MCKV Institute of Engineering
