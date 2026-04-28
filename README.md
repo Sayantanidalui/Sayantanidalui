@@ -9,9 +9,9 @@ Hi there! I'm **Sayantani**, a passionate student diving deep into the world of 
 ---
 ## 🚀 Skills
 
-| Excel | Power BI | MySQL | Python | Pandas | Matplotlib | Dashboard |
-|-------|----------|-------|--------|--------|------------|-----------|
-| <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/> | <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> | <img src="https://img.icons8.com/ios-filled/50/combo-chart.png" width="40"/> |
+| Excel | Power BI | MySQL | Python | Pandas | Matplotlib | Seaborn | NumPy | Dashboard |
+|-------|----------|-------|--------|--------|------------|---------|-------|-----------|
+| <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/> | <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> |<img src="https://img.icons8.com/ios-filled/50/combo-chart.png" width="40"/> |
 
 
 ---
